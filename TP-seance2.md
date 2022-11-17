@@ -11,9 +11,9 @@ D'accord au minimum nous aurons besoin d'un pc portable comportant :
 
 - Refs trouvé avec cette config :
 
-- Asus STRIX-G15-G513IM-HN008W On est ici avec un PC optimale pour un portefeuille assez léger mais qui reste totatalement vivable et trouvable à 1200 euros sur boulanger. Animation 2D
+- `Asus STRIX-G15-G513IM-HN008W` On est ici avec un PC optimale pour un portefeuille assez léger mais qui reste totatalement vivable et trouvable à 1200 euros sur boulanger. Animation 2D
 
-- Acer Nitro 5 AN517-54-90GF Si jamais vous êtes pros intel je vous trouve ici un pc portable plus performant pour 1700 euros (sur boulanger). Game Art 
+- `Acer Nitro 5 AN517-54-90GF` Si jamais vous êtes pros intel je vous trouve ici un pc portable plus performant pour 1700 euros (sur boulanger). Game Art 
 
 # Architecture Interieur
 
@@ -29,7 +29,7 @@ D'accord au minimum nous aurons besoin d'un pc portable comportant :
 
  Refs :
 
- -  Predator Helios 300 PH315-54 C'est un très bon pc pour le multitâche et le rendu graphique.
+ -  `Predator Helios 300 PH315-54` C'est un très bon pc pour le multitâche et le rendu graphique.
 
  # Audiovisuel
 
@@ -43,7 +43,7 @@ D'accord au minimum nous aurons besoin d'un pc portable comportant :
 
  - Refs :
 
- - HP envy 16 Opti pour l'audio visuel avec un écran OLED plutôt sympathique.
+ - `HP envy 16` Opti pour l'audio visuel avec un écran OLED plutôt sympathique.
 
  # Marketing & et Communication
  
@@ -66,7 +66,7 @@ SSD,
 Dalle IPS pour avoir de bonnes couleurs
 13 pouces pour de la portabilité
 
-  - Dell Xps 13 9315 + windows 11 pro
+  - `Dell Xps 13 9315`
 
 - Motion design: 32 Go ram
 CPU 4Ghz
@@ -74,7 +74,7 @@ GPU 8Go mémoire vidéo
 ssd 512 Go
 Bonne batterie
 
-  - ASUS ROG Studio 15 PX513IC-HN071X
+  - `ASUS ROG Studio 15 PX513IC-HN071X`
 
 
 ## Informatique
