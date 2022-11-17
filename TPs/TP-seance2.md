@@ -15,7 +15,7 @@ D'accord au minimum nous aurons besoin d'un pc portable comportant :
 
 - `Acer Nitro 5 AN517-54-90GF` Si jamais vous êtes pros intel je vous trouve ici un pc portable plus performant pour 1700 euros (sur boulanger). Game Art 
 
-# Architecture Interieur
+## Architecture Interieur
 
 D'accord au minimum nous aurons besoin d'un pc portable comportant : 
 
@@ -31,7 +31,7 @@ D'accord au minimum nous aurons besoin d'un pc portable comportant :
 
  -  `Predator Helios 300 PH315-54` C'est un très bon pc pour le multitâche et le rendu graphique.
 
- # Audiovisuel
+ ## Audiovisuel
 
  - CPU : i7 à i9 11e gen 
 
@@ -45,13 +45,13 @@ D'accord au minimum nous aurons besoin d'un pc portable comportant :
 
  - `HP envy 16` Opti pour l'audio visuel avec un écran OLED plutôt sympathique.
 
- # Marketing & et Communication
+ ## Marketing & et Communication
  
 - Refs :
 
 - Mac avec puce M1 M1 Pro et M2 sont totalement sufisant.
 
- # Tech et Business
+ ## Tech et Business
  
 - Refs :
 
