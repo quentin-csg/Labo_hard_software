@@ -9,4 +9,4 @@
   - la partie pratique
   
 - Point négatif : 
-  - la partie recherche qui était un peu longue et répétitive.
+  - la partie recherche qui était un peu longue et répétitive. 
