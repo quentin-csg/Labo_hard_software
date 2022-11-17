@@ -79,4 +79,4 @@ Bonne batterie
 
 ## Informatique
 
-- I5,  I7
+- I5, I7
