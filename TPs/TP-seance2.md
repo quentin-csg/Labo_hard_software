@@ -60,7 +60,9 @@ D'accord au minimum nous aurons besoin d'un pc portable comportant :
 
 ## Création et Digital Design
 
-- Minimun 16Go ram pour faire tourner des logiciels tel que Adobe Creative Cloud.
+
+- Minimun 16Go ram pour faire tourner des logiciels tel que Adobe Creative Cloud,
+- i5 mais i7 plus conseillé
 2Go VRAM,
 SSD,
 Dalle IPS pour avoir de bonnes couleurs
@@ -82,11 +84,11 @@ Bonne batterie
 Processeur : i5 minimum 6ème génération
 - GPU : non obligatoire
 - RAM : 8GB
-- Stockage : SSD 512 Go 
+- Stockage : SSD 512 Go recommandé
 
 
 Cybersécurité:
-Processeur : i5 minimum 6ème génération
+Processeur : i7
 - GPU : non obligatoire
 - RAM : 16GB 
-- Stockage : SSD 512 Go recommandé
+- Stockage : SSD 512 Go ou plus
