@@ -79,4 +79,14 @@ Bonne batterie
 
 ## Informatique
 
-- I5, I7
+Processeur : i5 minimum 6ème génération
+- GPU : non obligatoire
+- RAM : 8GB
+- Stockage : SSD 512 Go 
+
+
+Cybersécurité:
+Processeur : i5 minimum 6ème génération
+- GPU : non obligatoire
+- RAM : 16GB 
+- Stockage : SSD 512 Go recommandé
